@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1085340446333",
+    "project_id": "smart-ga",
+    "storage_bucket": "smart-ga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085340446333:android:6e02bc79b59f564e180b14",
+        "android_client_info": {
+          "package_name": "com.malikwaqas.smartgategatekeeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcPWh2Q2vvFNZzeNooELC0kbSf4fGZApM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085340446333:android:5755c1767a3cc73a180b14",
+        "android_client_info": {
+          "package_name": "com.malikwaqas.smartgatesocietyadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcPWh2Q2vvFNZzeNooELC0kbSf4fGZApM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085340446333:android:7e19ed368897ac8e180b14",
+        "android_client_info": {
+          "package_name": "com.mia.smartgate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcPWh2Q2vvFNZzeNooELC0kbSf4fGZApM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

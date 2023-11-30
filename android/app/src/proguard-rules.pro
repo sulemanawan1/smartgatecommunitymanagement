@@ -1,0 +1,3 @@
+-keep class **.zego.** { *; }
+-keep class **.**.zego_zpns.** { *; }
+-keep class com.github.olubunmitosin.laravel_flutter_pusher.** { *; }
